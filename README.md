@@ -1,31 +1,10 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![1290x2796bb](https://github.com/erdalkama/dicer/assets/34250103/0ca4522b-a976-43eb-b977-53b504fc5b1a)
 
-# Dicee
+# Dicer
 
-## Our Goal
+Dicer developed by Swift. 
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
+## App Store
+https://apps.apple.com/us/app/edicer/id6446653302
 
-## What you will create
-
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
-
-
-## What you will learn
-
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
-* Create links between the Interface Builder files and code using IBActions and IBOutlets.
-* Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+![2796x1290bb](https://github.com/erdalkama/dicer/assets/34250103/715f9fb7-aed2-4d2d-9018-e4f67567ee34)
